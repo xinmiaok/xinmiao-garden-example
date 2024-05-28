@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md",
+                "file": "00 - 计划记录/Inbox/README.md",
                 "mode": "source",
                 "source": true
               }
@@ -115,26 +115,12 @@
         "dimension": 39.583333333333336,
         "children": [
           {
-            "id": "79b41e8cf583d388",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 - Obsidian/主页/00. 导航.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "27badcd8247fec69",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md",
+                "file": "00 - 计划记录/Inbox/README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md",
+                "file": "00 - 计划记录/Inbox/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md",
+                "file": "00 - 计划记录/Inbox/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,12 +268,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md"
+                "file": "00 - 计划记录/Inbox/README.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -321,8 +306,11 @@
       "obsidian-booknote-plugin:书库": false
     }
   },
-  "active": "5dc995bf7c58e365",
+  "active": "015647b15050c30b",
   "lastOpenFiles": [
+    "40 - Obsidian/主页/Home/00. 主页.md",
+    "40 - Obsidian/主页/00. 导航.md",
+    "60 - 知识体系/61 体系,分类/KG 笔记法.md",
     "10 - 人员管理/家人/信渺.md",
     "20 - 流/20 - 流.md",
     "10 - 人员管理/10 - 人员管理.md",
@@ -330,8 +318,6 @@
     "00 - 计划记录/00 - 计划记录.md",
     "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian.md",
     "40 - Obsidian/44 设置/44 设置.md",
-    "40 - Obsidian/主页/Home/00. 主页.md",
-    "40 - Obsidian/主页/00. 导航.md",
     "40 - Obsidian/主页/主页.md",
     "40 - Obsidian/40 - Obsidian.md",
     "40 - Obsidian/模板/模板.md",

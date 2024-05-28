@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "00 - 计划记录/Inbox/README.md"
+    },
+    {
+      "basename": "00. 主页",
+      "path": "40 - Obsidian/主页/Home/00. 主页.md"
+    },
+    {
+      "basename": "00. 导航",
+      "path": "40 - Obsidian/主页/00. 导航.md"
+    },
+    {
       "basename": "KG 笔记法",
       "path": "60 - 知识体系/61 体系,分类/KG 笔记法.md"
     },
@@ -33,14 +45,6 @@
       "path": "40 - Obsidian/44 设置/44 设置.md"
     },
     {
-      "basename": "00. 主页",
-      "path": "40 - Obsidian/主页/Home/00. 主页.md"
-    },
-    {
-      "basename": "00. 导航",
-      "path": "40 - Obsidian/主页/00. 导航.md"
-    },
-    {
       "basename": "主页",
       "path": "40 - Obsidian/主页/主页.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "模板",
       "path": "40 - Obsidian/模板/模板.md"
-    },
-    {
-      "basename": "README",
-      "path": "00 - 计划记录/Inbox/README.md"
     },
     {
       "basename": "51 卡片,概念",
