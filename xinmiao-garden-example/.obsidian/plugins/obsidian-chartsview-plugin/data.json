@@ -1,0 +1,11 @@
+{
+  "theme": "theme1",
+  "dataPath": "/",
+  "backgroundColor": "transparent",
+  "paddingTop": 30,
+  "paddingRight": 30,
+  "paddingBottom": 30,
+  "paddingLeft": 30,
+  "showExportBtn": false,
+  "wordCountFilter": "[A-z]{1,2}\n[0-9]+\n(?=[MDCLXVI])M*(C[MD]|D?C*)(X[CL]|L?X*)(I[XV]|V?I*)\nand\nare\nbut\ndid\nfor\nget\ngot\nhad\nhas\nher\nhim\nhis\nits\nnot\nour\nshe\nthe\nwas\nyou\nbeen\nfrom\nhave\ninto\nmine\nours\nthat\nthem\nthey\nthis\nwent\nwere\nwith\nthese\nthose"
+}

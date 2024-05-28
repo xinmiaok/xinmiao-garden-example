@@ -1,0 +1,22 @@
+/* 表格优化，From minimal theme */
+table:not(.calendar) {
+  counter-reset: section
+}
+
+table:not(.calendar)>thead>tr>th:first-child::before {
+  content: " ";
+  padding-right: .5em;
+  display: inline-block;
+  min-width: 2em
+}
+
+table:not(.calendar)>tbody>tr>td:first-child::before {
+  counter-increment: section;
+  content: counter(section) " ";
+  text-align: center;
+  padding-right: .5em;
+  display: inline-block;
+  min-width: 2em;
+/*  color: var(#6c6e70);*/
+  font-variant-numeric: tabular-nums
+}

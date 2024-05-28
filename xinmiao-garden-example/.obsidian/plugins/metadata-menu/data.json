@@ -1,0 +1,719 @@
+{
+  "presetFields": [
+    {
+      "name": "学习机构",
+      "options": {
+        "valuesList": {
+          "1": "[[安徽建筑大学]]"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "1",
+      "type": "Multi"
+    },
+    {
+      "name": "导师",
+      "options": {
+        "valuesList": {
+          "1": "[[杨青]]"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "2",
+      "type": "Multi"
+    },
+    {
+      "name": "同事",
+      "options": {},
+      "id": "3",
+      "type": "Input"
+    },
+    {
+      "name": "学生",
+      "options": {},
+      "id": "4",
+      "type": "Input"
+    },
+    {
+      "name": "基金",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "5",
+      "type": "Multi"
+    },
+    {
+      "name": "技术",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "6",
+      "type": "Multi"
+    },
+    {
+      "name": "奖项",
+      "options": {},
+      "id": "7",
+      "type": "Input"
+    },
+    {
+      "name": "学科",
+      "options": {
+        "valuesList": {
+          "1": "理论物理",
+          "2": "统计学",
+          "3": "计算机"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "8",
+      "type": "Multi"
+    },
+    {
+      "name": "论文类型",
+      "options": {
+        "valuesList": {
+          "1": "硕士学位论文",
+          "2": "博士学位论文",
+          "3": "期刊论文",
+          "4": "理论",
+          "5": "技术",
+          "6": "应用"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "9",
+      "type": "Select"
+    },
+    {
+      "name": "期刊",
+      "options": {
+        "valuesList": {
+          "1": "SCI",
+          "2": "CSCI",
+          "3": "CSCD扩展版",
+          "4": "JST",
+          "5": "WJCI"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "10",
+      "type": "Select"
+    },
+    {
+      "name": "合作作者",
+      "options": {},
+      "id": "12",
+      "type": "Input"
+    },
+    {
+      "name": "时间",
+      "options": {},
+      "id": "13",
+      "type": "Input"
+    },
+    {
+      "name": "观点",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "14",
+      "type": "Multi"
+    },
+    {
+      "name": "研究目的",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "15",
+      "type": "Multi"
+    },
+    {
+      "name": "研究背景",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "16",
+      "type": "Multi"
+    },
+    {
+      "name": "研究领域",
+      "options": {
+        "valuesList": {
+          "1": "[[复杂系统]]",
+          "2": "[[风景园林]]",
+          "3": "[[虚拟现实]]",
+          "4": "[[环境心理学]]"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "17",
+      "type": "Multi"
+    },
+    {
+      "name": "研究问题",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "18",
+      "type": "Multi"
+    },
+    {
+      "name": "假设",
+      "options": {},
+      "id": "19",
+      "type": "Input"
+    },
+    {
+      "name": "研究框架",
+      "options": {
+        "valuesList": {
+          "1": "AIMRD",
+          "2": "AIRDM",
+          "3": "AIM(RD)C",
+          "4": "AIBC"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "20",
+      "type": "Multi"
+    },
+    {
+      "name": "研究理论",
+      "options": {
+        "valuesList": {
+          "1": "[[系统协调理论]]",
+          "2": "[[演化博弈论]]"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "21",
+      "type": "Multi"
+    },
+    {
+      "name": "研究方法",
+      "options": {
+        "valuesList": {
+          "1": "案例分析"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "22",
+      "type": "Multi"
+    },
+    {
+      "name": "统计分析方法",
+      "options": {
+        "valuesList": {
+          "1": "G*Power"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "23",
+      "type": "Multi"
+    },
+    {
+      "name": "信息分析方法",
+      "options": {
+        "valuesList": {
+          "1": "MATLAB",
+          "2": "EEGLAB"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "24",
+      "type": "Multi"
+    },
+    {
+      "name": "指标参数分析方法",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "25",
+      "type": "Multi"
+    },
+    {
+      "name": "结果分析方法",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "26",
+      "type": "Multi"
+    },
+    {
+      "name": "研究对象",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "27",
+      "type": "Multi"
+    },
+    {
+      "name": "条件环境",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "28",
+      "type": "Multi"
+    },
+    {
+      "name": "方案步骤",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "29",
+      "type": "Multi"
+    },
+    {
+      "name": "数据获取",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "30",
+      "type": "Multi"
+    },
+    {
+      "name": "数据特性",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "31",
+      "type": "Multi"
+    },
+    {
+      "name": "研究结果",
+      "options": {},
+      "id": "32",
+      "type": "Input"
+    },
+    {
+      "name": "研究发现",
+      "options": {},
+      "id": "33",
+      "type": "Input"
+    },
+    {
+      "name": "研究展望",
+      "options": {},
+      "id": "34",
+      "type": "Input"
+    },
+    {
+      "name": "研究结论",
+      "options": {},
+      "id": "35",
+      "type": "Input"
+    },
+    {
+      "name": "研究空白",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "36",
+      "type": "Multi"
+    },
+    {
+      "name": "工作机构",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "37",
+      "type": "Multi"
+    },
+    {
+      "name": "学派",
+      "options": {
+        "valuesList": {
+          "1": "[[高技派]]"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "38",
+      "type": "Multi"
+    },
+    {
+      "name": "授课",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "39",
+      "type": "Multi"
+    },
+    {
+      "name": "设计作品",
+      "options": {},
+      "id": "40",
+      "type": "Input"
+    },
+    {
+      "name": "专著",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "41",
+      "type": "Multi"
+    },
+    {
+      "name": "文献",
+      "options": {
+        "valuesList": {},
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "42",
+      "type": "Multi"
+    },
+    {
+      "name": "用于",
+      "options": {},
+      "id": "43",
+      "type": "Input"
+    },
+    {
+      "name": "英文名",
+      "options": {},
+      "id": "44",
+      "type": "Input"
+    },
+    {
+      "name": "中文名",
+      "options": {},
+      "id": "45",
+      "type": "Input"
+    },
+    {
+      "name": "特点",
+      "options": {},
+      "id": "46",
+      "type": "Input"
+    },
+    {
+      "name": "本质",
+      "options": {},
+      "id": "47",
+      "type": "Input"
+    },
+    {
+      "name": "学术机构",
+      "options": {
+        "valuesList": {
+          "1": "[[中国科学技术大学]]",
+          "2": "[[安徽建筑大学建筑与规划学院]]",
+          "3": "[[美国佛罗里达海湾海岸大学]][[大沼泽地研究中心]]",
+          "4": "[[武汉理工大学]]"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "48",
+      "type": "Multi"
+    },
+    {
+      "name": "关键词",
+      "options": {
+        "valuesList": {
+          "1": "[[复杂系统]]",
+          "2": "[[复杂网络]]",
+          "3": "[[演化博弈论]]",
+          "4": "[[非平衡态统计物理]] "
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "49",
+      "type": "Multi"
+    },
+    {
+      "name": "所属位置",
+      "options": {
+        "valuesList": {
+          "1": "研究背景",
+          "2": "研究空白",
+          "3": "研究进展",
+          "4": "研究方法",
+          "5": "研究对象",
+          "6": "M(材料和方法)",
+          "7": "数据",
+          "8": "分析",
+          "9": "D(讨论)",
+          "10": "I(引言）",
+          "11": "A(摘要)",
+          "12": "R(结果)",
+          "13": "C(结论)",
+          "14": "B(主体)",
+          "15": "理论",
+          "17": "研究结果",
+          "18": "讨论",
+          "19": "研究目的"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "50",
+      "type": "Multi"
+    },
+    {
+      "name": "理论",
+      "options": {
+        "valuesList": {
+          "1": "[[演化博弈论]]"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "51",
+      "type": "Multi"
+    },
+    {
+      "name": "创新",
+      "options": {
+        "valuesList": {
+          "1": "提出理论框架模型",
+          "2": "建立指数模型",
+          "3": "建立系统动力学模型"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "52",
+      "type": "Multi"
+    },
+    {
+      "name": "作者",
+      "options": {
+        "valuesList": {
+          "1": "[[刘京一]]"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "53",
+      "type": "Multi"
+    },
+    {
+      "name": "写作",
+      "options": {
+        "valuesList": {
+          "1": "Topic sentence",
+          "2": "Idea ",
+          "3": "Statement-example",
+          "4": "Statement-reason",
+          "5": "Statement-explanation",
+          "6": "Framework"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "54",
+      "type": "Multi"
+    },
+    {
+      "name": "所属位置",
+      "options": {
+        "valuesList": {
+          "1": "[[学术英语_研究背景]]",
+          "2": "[[学术英语_研究方法]]",
+          "3": "[[学术英语_研究进展]]",
+          "4": "[[学术英语_研究意义]]",
+          "5": "[[学术英语_研究对象]]",
+          "6": "[[学术英语_结论]]",
+          "7": "[[学术英语_分析]]",
+          "8": "[[学术英语_研究结果]]",
+          "9": "[[学术英语_研究框架]]",
+          "10": "[[学术英语_摘要]]"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "55",
+      "type": "Multi"
+    },
+    {
+      "name": "类型1",
+      "options": {
+        "valuesList": {
+          "1": "\"文献阅读\"",
+          "2": "\"卡片\""
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "56",
+      "type": "Select"
+    },
+    {
+      "name": "类型2",
+      "options": {
+        "valuesList": {
+          "1": "\"复杂系统\""
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "57",
+      "type": "Select"
+    },
+    {
+      "name": "类型3",
+      "options": {
+        "valuesList": {
+          "1": "\"性质\"",
+          "2": "\"概念\"",
+          "3": "\"人物\"",
+          "4": "\"领域\"",
+          "5": "\"话题\"",
+          "6": "\"方法\"",
+          "7": "\"模型\"",
+          "8": "\"函数\"",
+          "9": "\"系数\"",
+          "10": "\"变量\"",
+          "11": "\"数据\"",
+          "12": "\"概率\"",
+          "13": "\"结果\"",
+          "14": "\"Article\"",
+          "15": "\"Review\"",
+          "16": "\"Book Review\"",
+          "17": "\"Case Report\"",
+          "18": "\"Editional\"",
+          "19": "\"硕士论文\"",
+          "20": "\"博士论文\"",
+          "21": "学科",
+          "22": "公式定理",
+          "23": "模型",
+          "24": "技术",
+          "25": "期刊·生态环境",
+          "26": "期刊·城市科学"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "58",
+      "type": "Select"
+    },
+    {
+      "name": "期刊分区",
+      "options": {
+        "valuesList": {
+          "1": "Q1",
+          "2": "Q2",
+          "3": "Q3",
+          "4": "1区",
+          "5": "2区",
+          "6": "3区",
+          "7": "4区",
+          "8": "Q4"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "59",
+      "type": "Multi"
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": null,
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": 3,
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "buttonIcon": "clipboard-list",
+  "tableViewMaxRecords": 100,
+  "frontmatterListDisplay": "asArray"
+}

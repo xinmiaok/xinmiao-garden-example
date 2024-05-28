@@ -1,0 +1,121 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "quickadd:choice:0c030ced-b31a-482e-9861-4746988de254",
+      "icon": "box",
+      "name": "QuickAdd: 打开主页",
+      "mode": "any",
+      "color": "#956f8d"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "文件列表: 在文件列表中显示当前文件",
+      "mode": "any",
+      "color": "#bd89c8"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "quickadd:choice:d599db81-15f5-4f56-ba8e-c7938a6fd961",
+      "icon": "aperture",
+      "name": "QuickAdd: 收起侧边栏",
+      "mode": "any",
+      "color": "#936281"
+    },
+    {
+      "id": "recent-files-obsidian:recent-files-open",
+      "icon": "anchor",
+      "name": "Recent Files: Open",
+      "mode": "any",
+      "color": "#99708e"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "左右分屏",
+      "mode": "any",
+      "color": "#9e7f9b"
+    },
+    {
+      "id": "quickadd:choice:2b9563eb-4698-41b1-9314-fe372c588dfa",
+      "icon": "align-horizontal-space-around",
+      "name": "QuickAdd: 插入脚注",
+      "mode": "any",
+      "color": "#a48da8"
+    },
+    {
+      "id": "quickadd:choice:155bd688-bec3-4e94-8015-32ca156765d1",
+      "icon": "bookmark-plus",
+      "name": "QuickAdd: 信手拈来",
+      "mode": "any",
+      "color": "#a99cb5"
+    },
+    {
+      "id": "quickadd:choice:69f5ae14-e1fe-4735-88a8-2df4b6b3578d",
+      "icon": "binary",
+      "name": "QuickAdd: 系统科学",
+      "mode": "any",
+      "color": "#afaac1"
+    },
+    {
+      "id": "quickadd:choice:92bc7c66-1bea-41c2-b8d2-1306dd861fd8",
+      "icon": "brush",
+      "name": "QuickAdd: 单词记录",
+      "mode": "any",
+      "color": "#b4b8ce"
+    },
+    {
+      "id": "templater-obsidian:insert-templater",
+      "icon": "activity",
+      "name": "Templater: Open Insert Template modal",
+      "mode": "any",
+      "color": "#bac7db"
+    },
+    {
+      "id": "quickadd:choice:474a9af4-2a38-4cd4-af33-59d0b69bb4ea",
+      "icon": "bot",
+      "name": "QuickAdd: 卡片|概念",
+      "mode": "any",
+      "color": "#bfd5e8"
+    },
+    {
+      "id": "quickadd:choice:443bb2ee-59af-4a5b-b522-54279da50f12",
+      "icon": "arrow-big-down",
+      "name": "QuickAdd: 新建导出文献",
+      "mode": "any",
+      "color": "#cadfe8"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "obsidian-textgenerator-plugin",
+      "obsidian-textgenerator-plugin",
+      "obsidian-textgenerator-plugin",
+      "obsidian-textgenerator-plugin"
+    ],
+    "leftRibbon": []
+  },
+  "spacing": "1",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "defaultSearchEngine": "baidu",
+  "customSearchEngine": [],
+  "alwaysShowCustomSearch": false,
+  "showOtherSearchEngines": true,
+  "showSearchBarInPage": true,
+  "markdownPath": "/",
+  "customHighlightFormat": true,
+  "highlightFormat": "-  {TIME: YYYY-MM-DD HH:mm:ss}[{CONTENT}]({URL})",
+  "highlightInSameTab": true,
+  "openInSameTab": false,
+  "showRefreshButton": true,
+  "openInObsidianWeb": false,
+  "useCustomIcons": false,
+  "useWebview": false,
+  "useIconList": true,
+  "darkMode": false,
+  "bookmarkManager": {
+    "openBookMark": true,
+    "pagination": "12",
+    "category": "\"计算机\\n    算法\\n    数据结构\\nobsidian\\n    surfing\\n    dataview\\n\"",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "category",
+      "tags",
+      "created",
+      "modified"
+    ]
+  }
+}

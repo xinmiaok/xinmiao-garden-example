@@ -1,0 +1,25 @@
+{
+  "accentColor": "#9e7696",
+  "theme": "system",
+  "cssTheme": "Blue Topaz",
+  "monospaceFontFamily": "Palatino Linotype,MV Boli",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "【Memos】Popover",
+    "【Query】keep-live",
+    "omega-hr",
+    "表格优化",
+    "center-images",
+    "checkbox",
+    "clutter-free-formatting",
+    "list-outline",
+    "notation-colour-blocks",
+    "text-justify",
+    "AnuExtendTheme",
+    "nav-labels-zh",
+    "inline-block-embeds",
+    "custom-admonitions.c21169",
+    "clutter-free-headings",
+    "【卡片视图】zettelkasten"
+  ]
+}

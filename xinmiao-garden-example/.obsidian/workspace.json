@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "d5954dd26d30f35e",
+    "type": "split",
+    "children": [
+      {
+        "id": "18fb3aabc61ae1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b41e8cf583d388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - 计划记录/Inbox/README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f96b0bd60d598af",
+    "type": "split",
+    "children": [
+      {
+        "id": "fef811d18e1b29d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "015647b15050c30b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c19edc3de0c0aaeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a959493924ef765",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "53567c9cd4b900a2",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "86df457ae39bc342",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/主页/Home/00. 参考汇总.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d4d675673256cc41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "686c18db9a424084",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "1b8babf057a7a2f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d93f143f1fd849c2",
+        "type": "tabs",
+        "dimension": 39.583333333333336,
+        "children": [
+          {
+            "id": "27badcd8247fec69",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "00 - 计划记录/Inbox/README.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.333492578318059,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "0f62ccacd540165a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1539cfd36d620482",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - 计划记录/Inbox/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf24b179f7e51d54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - 计划记录/Inbox/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7f2a6eb9f279cae",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "33e91a4050e3aadb",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "52a9b5fd696ba6fa",
+        "type": "tabs",
+        "dimension": 60.41666666666667,
+        "children": [
+          {
+            "id": "fc03e4988759d184",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a4d20991a2bea20",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/主页/工具栏/计划追踪.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "19335ceac2a9dde7",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa8485d19d0fdc30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cef56bf91714333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - 计划记录/Inbox/README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "cmdr:文件列表: 在文件列表中显示当前文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "homepage:Open homepage": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "surfing:surfing-bookmark-manager": false,
+      "templater-obsidian:Templater": false,
+      "workbench-obsidian:Workbench": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false,
+      "workspaces-plus:Manage workspaces": false,
+      "obsidian-booknote-plugin:书库": false
+    }
+  },
+  "active": "015647b15050c30b",
+  "lastOpenFiles": [
+    "40 - Obsidian/40 - Obsidian.md",
+    "00 - 计划记录/Inbox/README.md",
+    "10 - 人员管理/家人/信渺.md",
+    "00 - 计划记录/00 - 计划记录.md",
+    "50 - 知识卡片/51 卡片,概念/51 卡片,概念.md",
+    "70 - 构思演化/71 归纳-聚集/71 归纳-聚集.md",
+    "40 - Obsidian/主页/Home/00. 参考汇总.md",
+    "70 - 构思演化/74 结构-代谢/74 结构-代谢.md",
+    "40 - Obsidian/模板/模板,卡片,人工智能.md",
+    "70 - 构思演化/70 - 构思演化.md",
+    "50 - 知识卡片/50 - 知识卡片.md",
+    "60 - 知识体系/60 - 知识体系.md",
+    "40 - Obsidian/主页/Home/00. 主页.md"
+  ]
+}

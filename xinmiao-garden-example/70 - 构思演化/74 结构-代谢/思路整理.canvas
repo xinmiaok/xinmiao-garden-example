@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"50 - 知识卡片/51 卡片,概念/研究,领域/复杂系统.md","id":"7d8cdf94449ca197","x":60,"y":180,"width":440,"height":378,"color":"#c365a0"},
+		{"id":"4f8ce089161699fa","x":691,"y":395,"width":400,"height":400,"color":"#9cd2ec","type":"file","file":"50 - 知识卡片/51 卡片,概念/χ 系统科学/无标度网络.md"}
+	],
+	"edges":[
+		{"id":"0bfe3afbdb1e38ce","fromNode":"7d8cdf94449ca197","fromSide":"right","toNode":"4f8ce089161699fa","toSide":"left","color":"#e0cdea","label":"网络结构"}
+	]
+}

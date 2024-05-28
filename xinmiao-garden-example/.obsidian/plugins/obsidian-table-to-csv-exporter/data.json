@@ -1,0 +1,10 @@
+{
+  "exportPath": "./",
+  "baseFilename": "",
+  "fileNumber": "004",
+  "sepChar": "sepChar-comma",
+  "quoteDataChar": "quoteChar-noQuote",
+  "saveToClipboardToo": true,
+  "removeCRLF": "removeCRLF-space",
+  "quoteData": false
+}

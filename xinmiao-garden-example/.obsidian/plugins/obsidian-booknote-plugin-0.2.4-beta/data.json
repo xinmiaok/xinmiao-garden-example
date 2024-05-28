@@ -1,0 +1,29 @@
+{
+  "bookPath": "D:\\BaiduSyncdisk\\System\\xinmiao-garden-example\\40 - Obsidian\\附件\\文件,阅读",
+  "bookSettingPath": "/40 - Obsidian/附件/附件,booknote",
+  "defaultVaultName": "Article&Book",
+  "useLocalWebViewerServer": true,
+  "webviewerRootPath": "C:\\settings\\environment\\webviewer",
+  "webviewerLocalPort": "1448",
+  "webviewerExternalServerAddress": "https://relaxed-torvalds-5a5c77.netlify.app",
+  "openAllBookBySystem": false,
+  "openOfficeBookBySystem": false,
+  "selectionAnnotationLinkTemplate": "[{{content}}]({{url}})",
+  "regionAnnotationLinkTemplate": "[{{comment}}]({{url}})\n![[{{img}}#center|{{width}}]]",
+  "currentPageLinkTemplage": "[PDF link]({{url}})",
+  "fixedAnnotImageZoom": true,
+  "fixedAnnotImageZoomValue": "2",
+  "addClickEventForAnnotImage": true,
+  "autoOpenProjectView": true,
+  "copyNewAnnotationLink": false,
+  "bookTreeSortType": 0,
+  "bookTreeSortAsc": true,
+  "currentBookVault": "default",
+  "bookVaults": [
+    {
+      "name": "阅读材料",
+      "path": "D:\\BaiduSyncdisk\\Research\\Xinmiao\\40 - Obsidian\\附件\\文件,阅读"
+    }
+  ],
+  "zoteroImportPath": ""
+}

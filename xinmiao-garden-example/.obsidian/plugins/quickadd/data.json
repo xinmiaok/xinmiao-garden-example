@@ -1,0 +1,1158 @@
+{
+  "choices": [
+    {
+      "id": "587ffde1-2d5d-4886-8257-ff6c7ab9d617",
+      "name": "新建代码",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/新建代码模板.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "20 - 工作学习/代码库"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "3796c65b-c515-42c5-9e23-47fe233b6d80",
+      "name": "obsidian,插件",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,obsidian,插件.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "obsidian,插件,{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "40 - Obsidian/41 参考/41-3 参考,插件"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "24e8928d-d9b2-4c3e-a63e-a7717b888773",
+      "name": "快速记录",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD HH:mm:ss}} *快速记录* {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "92bc7c66-1bea-41c2-b8d2-1306dd861fd8",
+      "name": "单词记录",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,卡片,单词.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/52 卡片,英语"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "1eb1061d-83a3-44d0-a6e1-ade27c187c40",
+      "name": "灵感|理论",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "70 - 构思/74 切入点-问题/灵感,理论.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{DATE:YYYY-MM-DD hh:mm:ss}} {{VALUE}} "
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "788039aa-342b-4bbe-86ea-b5018af65815",
+      "name": "问题|记录",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "70 - 构思/74 切入点-问题/问题,记录.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{DATE:YYYY-MM-DD hh:mm:ss}} {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "f841b55f-2bce-4675-bb68-ba5dfe624c06",
+      "name": "摘录|视频",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,摘录,视频.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "30 - 摘录/32 摘录,视频"
+        ],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "28d0db8c-e817-4e58-b00f-903b6d4da3d4",
+      "name": "文献|空间叙事",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,摘录,文献.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "horizontal",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "576589aa-1a74-4ade-bfaf-4510286833ca",
+      "name": "文献|文本叙事",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,摘录,文献.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "8530b36f-ae01-454b-9142-7c61e315ad46",
+      "name": "文献|建筑智能",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,摘录,文献.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "30 - 摘录/31 摘录,文献/建筑智能"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "759cf713-b306-4a76-b7cc-bac28d9b5be2",
+      "name": "摘录|图文",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,摘录,图文.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "40 - Obsidian/41 参考/41-2 参考,图文"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "b1a7e3c3-ef11-4c23-861a-0ae361a5c1c2",
+      "name": "人员|研究人员",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,卡片,研究人员.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/人物,研究人员"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "e7ccf1a6-0da9-46a7-9949-7e7c936e2040",
+      "name": "人物|专业人员",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,卡片,专业人员.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/人物,专业人员"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "085170bc-2298-40b1-9837-7846d4fb6de5",
+      "name": "学校|研究领域",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,学校,卡片.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/学校"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "d88a7891-64d2-4f5c-bcbb-f726707237a8",
+      "name": "研究|领域",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,领域,卡片.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/领域"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "8b0f5a9f-9a8b-48a8-af9a-f1182b6f4b24",
+      "name": "文献|摘录",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,摘录,文献.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "30 - 摘录/31 摘录,文献/阅读文献"
+        ],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "fe4ddbc4-01bf-4d4b-84ea-34dd6b22cea2",
+      "name": "研究|方法",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,方法,卡片.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/方法"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "f15e64be-2ed2-4597-b387-239b9a527466",
+      "name": "索引|方法",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,方法,索引.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "d44b02ed-612a-4121-b5d3-4b5e68181a40",
+      "name": "研究|技术",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,技术,卡片.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/技术"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "55b4c888-02e5-493a-8e70-a9162ae88741",
+      "name": "索引|技术",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,技术,索引.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "cc8ee257-2b06-4846-885e-ef10c249dcfa",
+      "name": "索引|领域",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,领域,索引.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "d45173c6-21b1-4314-be0b-7bbac5ee56cf",
+      "name": "研究|理论",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,理论,卡片.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/理论"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "be9273ff-11a0-49d8-aaa0-f09de55d72ce",
+      "name": "索引|理论",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,理论,索引.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "51bfae65-99c2-4a86-91dc-ccc3aa701933",
+      "name": "研究|对象",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,研究对象,概念.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/对象,研究"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "2eedefed-eda7-4900-b1a8-e2fa82cc04b8",
+      "name": "索引|对象",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,研究对象,索引.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "474a9af4-2a38-4cd4-af33-59d0b69bb4ea",
+      "name": "卡片|概念",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,概念,卡片.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/对象,概念"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "9de21918-1910-4e25-9eee-490fc5bc365d",
+      "name": "索引|概念",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,概念,索引.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "f9b49f9c-f2b3-40ef-b43c-5c42f047a065",
+      "name": "Python,卡片,模板",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/Python,概念,卡片.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/Python"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "b82abfb8-487c-41aa-82a4-bb6ea59a6e4f",
+      "name": "R,卡片,模板",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/R,模板,卡片.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/R"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "33aa9fcb-4633-49cf-8e23-e41cd2f540d7",
+      "name": "概率论与数理统计",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,概率论与数理统计.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/概率论与数理统计"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "6d0e682d-d496-4460-827f-50732cd9bf80",
+      "name": "多元统计分析",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/多元统计分析,模板,卡片.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 知识卡片/51 卡片,概念/χ 多元统计分析"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "16c23176-8ad1-48b9-b725-979e7841f47b",
+      "name": "数字",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/时间序列,卡片,模板.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "50 - 卡片知识/51 卡片,概念/数字"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "2b9563eb-4698-41b1-9314-fe372c588dfa",
+      "name": "插入脚注",
+      "type": "Macro",
+      "command": true,
+      "macroId": "61af896a-c730-4169-928d-42b8f7a49459"
+    },
+    {
+      "id": "155bd688-bec3-4e94-8015-32ca156765d1",
+      "name": "信手拈来",
+      "type": "Template",
+      "command": true,
+      "templatePath": "40 - Obsidian/模板/模板,信手拈来.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "00 - 计划记录/信手拈来"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "d599db81-15f5-4f56-ba8e-c7938a6fd961",
+      "name": "收起侧边栏",
+      "type": "Macro",
+      "command": true,
+      "macroId": "907b9325-70d5-4537-ac4d-ed2144f786da"
+    },
+    {
+      "id": "443bb2ee-59af-4a5b-b522-54279da50f12",
+      "name": "新建导出文献",
+      "type": "Macro",
+      "command": true,
+      "macroId": "44f38d5d-fdda-4ef0-ae7d-7a8d0381c3b3"
+    },
+    {
+      "id": "7905ac2c-ec1f-4360-9830-d47fb6d095fa",
+      "name": "明暗转换",
+      "type": "Macro",
+      "command": true,
+      "macroId": "54c3e1ed-3d73-4de3-8b91-8365a9e03c24"
+    },
+    {
+      "id": "0c030ced-b31a-482e-9861-4746988de254",
+      "name": "打开主页",
+      "type": "Macro",
+      "command": true,
+      "macroId": "8692a707-67d3-4316-b91e-240ec7b36de2"
+    },
+    {
+      "id": "214acaa4-5110-4c13-944d-62ee2786ddbc",
+      "name": "引文列表",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "<% tp.user.ref_list() %>"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "3319e76e-a163-4b1e-adb3-c1bc78c7d541",
+      "name": "插入路径",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[📂{{VALUE}}](file:///{{VALUE}})"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "c9d4b6b1-f755-4970-82a2-1c3576471ad6",
+      "name": "插入任务",
+      "type": "Macro",
+      "command": true,
+      "macroId": "61af896a-c730-4169-928d-42b8f7a49459"
+    }
+  ],
+  "macros": [
+    {
+      "name": "单词记录",
+      "id": "61af896a-c730-4169-928d-42b8f7a49459",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "9fe7f0ae-0efa-4816-a4b4-eddffd735abf",
+          "choice": {
+            "id": "3a5e9697-bd8c-4e6b-af55-fd591efd1702",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "40 - Obsidian/模板/模板,摘录,英语词汇.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": ""
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": true,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "source"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "收起侧边栏",
+      "id": "907b9325-70d5-4537-ac4d-ed2144f786da",
+      "commands": [
+        {
+          "name": "折叠/展开左侧边栏",
+          "type": "Obsidian",
+          "id": "3a0d0500-ef1b-4421-b404-b817e0cffb33",
+          "commandId": "app:toggle-left-sidebar"
+        },
+        {
+          "name": "折叠/展开右侧边栏",
+          "type": "Obsidian",
+          "id": "4977bda0-bc24-4424-8f43-f7125d5bb538",
+          "commandId": "app:toggle-right-sidebar"
+        }
+      ],
+      "runOnStartup": true
+    },
+    {
+      "name": "新建导出文献",
+      "id": "44f38d5d-fdda-4ef0-ae7d-7a8d0381c3b3",
+      "commands": [
+        {
+          "name": "关闭当前标签页",
+          "type": "Obsidian",
+          "id": "26131c59-a31a-4f8e-9407-91bf104e341d",
+          "commandId": "workspace:close"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "e84ccf66-559b-43a3-9a7a-ca0d5455e89e",
+          "time": 100
+        },
+        {
+          "name": "Citations: Open literature note",
+          "type": "Obsidian",
+          "id": "edde5f4f-1483-4b39-9830-c441f66cbc89",
+          "commandId": "obsidian-citation-plugin:open-literature-note"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "明暗转换",
+      "id": "54c3e1ed-3d73-4de3-8b91-8365a9e03c24",
+      "commands": [
+        {
+          "name": "SwitcLightdark",
+          "type": "UserScript",
+          "id": "c22a5a07-afce-4bb4-a215-f7f7b0f69197",
+          "path": "40 - Obsidian/脚本/script/SwitcLightdark.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "插入脚注",
+      "id": "11eac616-afbc-4b6c-ba52-aa7b66e829ed",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "打开主页",
+      "id": "8692a707-67d3-4316-b91e-240ec7b36de2",
+      "commands": [
+        {
+          "name": "Hotkeys for specific files: Open 40 - Obsidian/主页/00. 主页",
+          "type": "Obsidian",
+          "id": "038af75d-706a-4fee-9125-6acd7308cda7",
+          "commandId": "obsidian-hotkeys-for-specific-files:40 - Obsidian/主页/00. 主页.md"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

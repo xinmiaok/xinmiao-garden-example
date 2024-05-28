@@ -1,0 +1,13 @@
+{
+  "show-checkboxes": false,
+  "hide-card-count": true,
+  "new-note-folder": "00 - 每日日记/Kanban",
+  "tag-colors": [
+    {
+      "tagKey": "",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ],
+  "date-colors": []
+}
