@@ -5,6 +5,34 @@
       "path": "00 - 计划记录/Inbox/README.md"
     },
     {
+      "basename": "修复项目统计20220530",
+      "path": "40 - Obsidian/脚本/修复项目统计20220530.md"
+    },
+    {
+      "basename": "全景地图",
+      "path": "40 - Obsidian/主页/网站嵌套/全景地图.md"
+    },
+    {
+      "basename": "00. 主页_兰桨溯光_20230927221711",
+      "path": "40 - Obsidian/主页/历史版本/00. 主页_兰桨溯光_20230927221711.md"
+    },
+    {
+      "basename": "00. 文件管理",
+      "path": "40 - Obsidian/主页/Home/00. 文件管理.md"
+    },
+    {
+      "basename": "Sustainable Cities and Society",
+      "path": "50 - 知识卡片/51 卡片,概念/学术,期刊/Sustainable Cities and Society.md"
+    },
+    {
+      "basename": "obsidian,插件,obsidian SenGener",
+      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,obsidian SenGener.md"
+    },
+    {
+      "basename": "郑豪",
+      "path": "50 - 知识卡片/51 卡片,概念/人物,研究人员/郑豪.md"
+    },
+    {
       "basename": "00. 主页",
       "path": "40 - Obsidian/主页/Home/00. 主页.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Obsidian,操作手册,用法,输出,关系图谱",
       "path": "40 - Obsidian/42 标准流程/Obsidian,操作手册/Obsidian,操作手册,用法,输出,关系图谱.md"
-    },
-    {
-      "basename": "Obsidian,操作手册,设置",
-      "path": "40 - Obsidian/42 标准流程/Obsidian,操作手册/Obsidian,操作手册,设置.md"
-    },
-    {
-      "basename": "Obsidian,操作手册",
-      "path": "40 - Obsidian/42 标准流程/Obsidian,操作手册/Obsidian,操作手册.md"
-    },
-    {
-      "basename": "42 标准流程",
-      "path": "40 - Obsidian/42 标准流程/42 标准流程.md"
-    },
-    {
-      "basename": "工具栏",
-      "path": "40 - Obsidian/主页/工具栏/工具栏.md"
-    },
-    {
-      "basename": "obsidian,插件,Taskido",
-      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,Taskido.md"
-    },
-    {
-      "basename": "obsidian,插件,Kanban",
-      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,Kanban.md"
-    },
-    {
-      "basename": "obsidian,插件,Image Toolkit",
-      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,Image Toolkit.md"
     }
   ],
   "omittedPaths": [],

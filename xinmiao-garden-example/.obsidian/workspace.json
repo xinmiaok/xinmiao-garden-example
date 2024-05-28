@@ -253,7 +253,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "邮箱",
+                "query": "@",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -308,6 +308,14 @@
   },
   "active": "015647b15050c30b",
   "lastOpenFiles": [
+    "40 - Obsidian/脚本/修复项目统计20220530.md",
+    "40 - Obsidian/主页/网站嵌套/全景地图.md",
+    "40 - Obsidian/主页/历史版本/00. 主页_兰桨溯光_20230927221711.md",
+    "40 - Obsidian/主页/Home/00. 文件管理.md",
+    "50 - 知识卡片/51 卡片,概念/学术,期刊/Sustainable Cities and Society.md",
+    "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,obsidian SenGener.md",
+    "50 - 知识卡片/51 卡片,概念/人物,研究人员/郑豪.md",
+    "00 - 计划记录/Inbox/README.md",
     "40 - Obsidian/主页/Home/00. 主页.md",
     "40 - Obsidian/主页/00. 导航.md",
     "60 - 知识体系/61 体系,分类/KG 笔记法.md",
@@ -323,14 +331,8 @@
     "40 - Obsidian/模板/模板.md",
     "40 - Obsidian/模板/每周周记模板.md",
     "40 - Obsidian/模板/每日日记模板.md",
-    "00 - 计划记录/Inbox/README.md",
     "50 - 知识卡片/51 卡片,概念/51 卡片,概念.md",
     "70 - 构思演化/71 归纳-聚集/71 归纳-聚集.md",
-    "40 - Obsidian/主页/Home/00. 参考汇总.md",
-    "70 - 构思演化/74 结构-代谢/74 结构-代谢.md",
-    "40 - Obsidian/模板/模板,卡片,人工智能.md",
-    "70 - 构思演化/70 - 构思演化.md",
-    "50 - 知识卡片/50 - 知识卡片.md",
-    "60 - 知识体系/60 - 知识体系.md"
+    "40 - Obsidian/主页/Home/00. 参考汇总.md"
   ]
 }

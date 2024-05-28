@@ -110,15 +110,6 @@ Turun yliopisto教授，芬兰图尔库
 -   投稿地点：[编辑经理®](https://www.editorialmanager.com/scsi/default2.aspx)
 -   文章类型**名称：“****VSI：Sust Urban Tech****”**- 请在在线提交稿件时选择此项目
 
-有关贡献主题的适当性的任何查询，欢迎联系[Tommi Inkinen](mailto:%20tommi.inkinen@utu.fi)教授。
-
-作者指南将对您未来的贡献有所帮助，阅读更多：[SCS - 作者指南](https://www.elsevier.com/journals/sustainable-cities-and-society/2210-6707/guide-for-authors)
-
-欲了解更多信息，请访问我们的ScienceDirect页面：[可持续城市与社会](https://www.sciencedirect.com/journal/sustainable-cities-and-society)
-
-在特刊中了解有关发布的好处的更多信息：[https://www.elsevier.com/authors/submit-your-paper/special-issues](https://www.elsevier.com/authors/submit-your-paper/special-issues)
-
-有兴趣成为客座编辑吗？了解客座编辑特刊的好处以及您可以为您的领域做出的宝贵贡献：[https://www.elsevier.com/editors/role-of-an-editor/guest-editors](https://www.elsevier.com/editors/role-of-an-editor/guest-editors)
 
 
 
