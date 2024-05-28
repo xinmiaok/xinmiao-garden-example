@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "00 - 计划记录/Inbox/README.md"
-    },
-    {
-      "basename": "40 - Obsidian",
-      "path": "40 - Obsidian/40 - Obsidian.md"
+      "basename": "KG 笔记法",
+      "path": "60 - 知识体系/61 体系,分类/KG 笔记法.md"
     },
     {
       "basename": "信渺",
       "path": "10 - 人员管理/家人/信渺.md"
     },
     {
+      "basename": "20 - 流",
+      "path": "20 - 流/20 - 流.md"
+    },
+    {
+      "basename": "10 - 人员管理",
+      "path": "10 - 人员管理/10 - 人员管理.md"
+    },
+    {
+      "basename": "信手拈来",
+      "path": "00 - 计划记录/信手拈来/信手拈来.md"
+    },
+    {
       "basename": "00 - 计划记录",
       "path": "00 - 计划记录/00 - 计划记录.md"
+    },
+    {
+      "basename": "设置,obsidian",
+      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian.md"
+    },
+    {
+      "basename": "44 设置",
+      "path": "40 - Obsidian/44 设置/44 设置.md"
+    },
+    {
+      "basename": "00. 主页",
+      "path": "40 - Obsidian/主页/Home/00. 主页.md"
+    },
+    {
+      "basename": "00. 导航",
+      "path": "40 - Obsidian/主页/00. 导航.md"
+    },
+    {
+      "basename": "主页",
+      "path": "40 - Obsidian/主页/主页.md"
+    },
+    {
+      "basename": "40 - Obsidian",
+      "path": "40 - Obsidian/40 - Obsidian.md"
+    },
+    {
+      "basename": "模板",
+      "path": "40 - Obsidian/模板/模板.md"
+    },
+    {
+      "basename": "README",
+      "path": "00 - 计划记录/Inbox/README.md"
     },
     {
       "basename": "51 卡片,概念",
@@ -45,10 +85,6 @@
       "path": "60 - 知识体系/60 - 知识体系.md"
     },
     {
-      "basename": "00. 主页",
-      "path": "40 - Obsidian/主页/Home/00. 主页.md"
-    },
-    {
       "basename": "obsidian,设置,笔记组织方法",
       "path": "40 - Obsidian/44 设置/设置,obsidian/obsidian,设置,笔记组织方法/obsidian,设置,笔记组织方法.md"
     },
@@ -67,14 +103,6 @@
     {
       "basename": "计划追踪",
       "path": "40 - Obsidian/主页/工具栏/计划追踪.md"
-    },
-    {
-      "basename": "设置,obsidian",
-      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian.md"
-    },
-    {
-      "basename": "44 设置",
-      "path": "40 - Obsidian/44 设置/44 设置.md"
     },
     {
       "basename": "41 参考",
@@ -99,10 +127,6 @@
     {
       "basename": "obsidian,基本使用",
       "path": "40 - Obsidian/44 设置/设置,obsidian/obsidian,基本使用.md"
-    },
-    {
-      "basename": "信手拈来",
-      "path": "00 - 计划记录/信手拈来/信手拈来.md"
     },
     {
       "basename": "图书馆",
@@ -165,10 +189,6 @@
       "path": "40 - Obsidian/主页/工具栏/工具栏.md"
     },
     {
-      "basename": "主页",
-      "path": "40 - Obsidian/主页/主页.md"
-    },
-    {
       "basename": "obsidian,插件,Taskido",
       "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,Taskido.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "obsidian,插件,Image Toolkit",
       "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,Image Toolkit.md"
-    },
-    {
-      "basename": "obsidian,插件,excalidraw",
-      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,excalidraw.md"
-    },
-    {
-      "basename": "obsidian,插件,Easy Typing",
-      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,Easy Typing.md"
-    },
-    {
-      "basename": "obsidian,插件,custom frames",
-      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,custom frames.md"
-    },
-    {
-      "basename": "obsidian,插件,Commander",
-      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,Commander.md"
-    },
-    {
-      "basename": "obsidian,插件,codeblock customizer settings",
-      "path": "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian,插件/obsidian,插件,codeblock customizer settings.md"
     }
   ],
   "omittedPaths": [],

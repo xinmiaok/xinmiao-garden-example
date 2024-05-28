@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18fb3aabc61ae1dc",
+        "id": "fcd13ac88312bf9f",
         "type": "tabs",
         "children": [
           {
-            "id": "79b41e8cf583d388",
+            "id": "5dc995bf7c58e365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - 计划记录/Inbox/README.md",
-                "mode": "preview",
+                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -115,12 +115,26 @@
         "dimension": 39.583333333333336,
         "children": [
           {
+            "id": "79b41e8cf583d388",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/主页/00. 导航.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "27badcd8247fec69",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - 计划记录/Inbox/README.md",
+                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - 计划记录/Inbox/README.md",
+                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - 计划记录/Inbox/README.md",
+                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,9 +215,16 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "c91ea759eb21b50f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "52a9b5fd696ba6fa",
@@ -246,7 +267,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "邮箱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,12 +282,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - 计划记录/Inbox/README.md"
+                "file": "60 - 知识体系/61 体系,分类/KG 笔记法.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -283,29 +304,40 @@
       "cmdr:文件列表: 在文件列表中显示当前文件": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "homepage:Open homepage": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-journey-plugin:Find Journey": false,
       "juggl:Juggl global graph": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "notion-like-tables:Create Notion-Like table": false,
+      "periodic-notes:Open today": false,
       "obsidian-spaced-repetition:复习卡片": false,
       "surfing:surfing-bookmark-manager": false,
       "templater-obsidian:Templater": false,
       "workbench-obsidian:Workbench": false,
-      "publish:发布更改": false,
-      "workspaces:管理工作区布局": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
       "workspaces-plus:Manage workspaces": false,
+      "obsidian-memos:Memos": false,
       "obsidian-booknote-plugin:书库": false
     }
   },
-  "active": "015647b15050c30b",
+  "active": "5dc995bf7c58e365",
   "lastOpenFiles": [
-    "40 - Obsidian/40 - Obsidian.md",
-    "00 - 计划记录/Inbox/README.md",
     "10 - 人员管理/家人/信渺.md",
+    "20 - 流/20 - 流.md",
+    "10 - 人员管理/10 - 人员管理.md",
+    "00 - 计划记录/信手拈来/信手拈来.md",
     "00 - 计划记录/00 - 计划记录.md",
+    "40 - Obsidian/44 设置/设置,obsidian/设置,obsidian.md",
+    "40 - Obsidian/44 设置/44 设置.md",
+    "40 - Obsidian/主页/Home/00. 主页.md",
+    "40 - Obsidian/主页/00. 导航.md",
+    "40 - Obsidian/主页/主页.md",
+    "40 - Obsidian/40 - Obsidian.md",
+    "40 - Obsidian/模板/模板.md",
+    "40 - Obsidian/模板/每周周记模板.md",
+    "40 - Obsidian/模板/每日日记模板.md",
+    "00 - 计划记录/Inbox/README.md",
     "50 - 知识卡片/51 卡片,概念/51 卡片,概念.md",
     "70 - 构思演化/71 归纳-聚集/71 归纳-聚集.md",
     "40 - Obsidian/主页/Home/00. 参考汇总.md",
@@ -313,7 +345,6 @@
     "40 - Obsidian/模板/模板,卡片,人工智能.md",
     "70 - 构思演化/70 - 构思演化.md",
     "50 - 知识卡片/50 - 知识卡片.md",
-    "60 - 知识体系/60 - 知识体系.md",
-    "40 - Obsidian/主页/Home/00. 主页.md"
+    "60 - 知识体系/60 - 知识体系.md"
   ]
 }
